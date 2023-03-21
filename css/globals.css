@@ -1,0 +1,33 @@
+body {
+  font-family: "open sans";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto";
+  font-weight: 700;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Roboto";
+  font-weight: 700;
+}
+
+.button-footer {
+  font-weight: bold;
+  border: 2px solid transparent;
+}
+
+.button-footer:hover {
+  cursor: pointer;
+  border-bottom: 2px solid red;
+}
